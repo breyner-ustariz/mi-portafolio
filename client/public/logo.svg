@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1000px" height="1000px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1000" height="1000"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:none;stroke:#636363;stroke-miterlimit:10;"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="250.104" y="811.079" width="435.369" height="23.999"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<use xlink:href="#SVGID_3_"  style="overflow:visible;fill:none;stroke:#636363;stroke-miterlimit:10;"/>
+</g>
+<path style="fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;" d="M34.114,157.112
+	c-7.454,7.454-10.164,33.523-10.164,33.523v507.95c0,0,3.176,21.51,11.664,29.998c7.896,7.896,32.999,18.018,32.999,18.018h857.956
+	c0,0,27.107-9.093,34.532-16.518c9.813-9.813,7.467-38.998,7.467-38.998v-499.47c0,0-5.873-23.876-13.5-31.503
+	c-11.11-11.111-49.352-11.643-49.352-11.643H65.613C65.613,148.469,41.479,149.747,34.114,157.112z"/>
+<line style="fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;" x1="23.95" y1="260.26" x2="961.102" y2="260.26"/>
+<rect x="723.703" y="190.635" style="fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;" width="48.172" height="25.496"/>
+<rect x="862.804" y="191.615" style="fill:none;stroke:#FFFFFF;stroke-width:30;stroke-miterlimit:10;" width="42.913" height="25.497"/>
+<g>
+	<path style="fill:#FFFFFF;" d="M99.236,484.032l138.09-79.806v50.383l-91.366,50.382l91.366,47.562v53.606l-138.09-79.806V484.032z
+		"/>
+	<path style="fill:#FFFFFF;" d="M270.252,555.374l91.366-49.576l-91.366-47.965V290.605l138.09,193.427v42.321l-138.09,178.23
+		V555.374z"/>
+	<path style="fill:#FFFFFF;" d="M441.935,484.032l138.09-193.427v164.004l-91.366,50.382l91.366,47.562v152.031l-138.09-178.23
+		V484.032z"/>
+	<path style="fill:#FFFFFF;" d="M662.021,412.725l61.682-56.123L652.541,649.22l-53.332,29.866L662.021,412.725z"/>
+</g>
+<path style="fill:#FFFFFF;" d="M877.218,539.004l-138.09,79.806v-50.383l91.366-50.382l-91.366-47.562v-53.606l138.09,79.806
+	V539.004z"/>
+</svg>
